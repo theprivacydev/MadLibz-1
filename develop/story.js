@@ -9,7 +9,7 @@ function renderSavedStories() {
             //Print the title
             console.log(title);
             // render button 
-            var storyButton = $("<button>").text(title).val(title).addClass("viewStories");
+            var storyButton = $("<button>").text(title).val(title).addClass("viewStories button is-rounded");
             $("#savedStories").append(storyButton);
             //Print the story
             console.log(savedStories[title]);

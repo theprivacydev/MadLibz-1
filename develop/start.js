@@ -206,8 +206,8 @@ $(document).ready(function renderPage() {
       // Map the story array and merge with user input 
       // Will need to figure out how to make this part asyncronous due to possible api timing issues once live
       const storyP$ = $('<p>').attr('id', 'story-container');
-      const saveStoryBtn = $('<button>').attr('id', 'save-story').text('Save Story');
-      const homeBtn = $('<button>').attr('id', 'home-btn').text('Home');
+      const saveStoryBtn = $('<button>').attr('id', 'save-story').text('Save Story').addClass('button is-rounded');
+      const homeBtn = $('<button>').attr('id', 'home-btn').text('Home').addClass('button is-rounded');
       homeBtn.attr('onclick', "window.location.href='./index.html'");
       storyText.map(function (phrase, index) {
         const wordSpan$ = $('<span>').text(userWords[index]);

@@ -48,7 +48,7 @@ Start Page
 ### Links
 
 - [Project GitHub](https://github.com/TeamMadLibz/MadLibz)
-- [Deployed website](https://teammadlibz.github.io/MadLibz/)
+- [Deployed website](https://jaymemizelle.github.io/MadLibz-1/)
 
 ### Known Bugs
 

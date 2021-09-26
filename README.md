@@ -64,12 +64,6 @@ Start Page
 
 - [Contribute to the API](https://github.com/HermanFassett/madlibz/blob/master/data/templates.json)
 
-### Authors
-- Jayme Mizelle https://github.com/jaymemizelle
-- Eric Jostad https://github.com/EJostad
-- Ray Luna https://github.com/leon-luna-ray
-- Shawn Flanigan https://github.com/Shawnmflanigan
-
 
 ### Acknowledgements
 Thanks to Herman for engaging with us for the API development. 

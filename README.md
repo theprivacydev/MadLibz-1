@@ -48,7 +48,7 @@ Start Page
 ### Links
 
 - [Project GitHub](https://github.com/TeamMadLibz/MadLibz)
-- [Deployed website](https://jaymemizelle.github.io/MadLibz-1/)
+- [Deployed website](https://theprivacydev.github.io/MadLibz-1/)
 
 ### Known Bugs
 
